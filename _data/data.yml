@@ -40,13 +40,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Travel
           link:
 
-        - item: Snowboarding
-          link:
+        - item: Cars
+          link: 
 
-        - item: Cooking
+        - item: Gaming
           link:
 
 career-profile:
@@ -74,9 +74,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Director Cloud Architecture
+        time: Jan 2022 - Present
+        company: Teradata, Ohio
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -87,30 +87,59 @@ experiences:
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
           architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Secured Microsoft's commitment to providing native sync for Azure Data Factory
+            - Technical program manager for Azure integration efforts
+            - Influence Teradata roadmap through engineering partnership
+            - Partner with sales leaders to unblock strategic customer opportunities
+      - role: Sr. Cloud Solution Architect
+        time: Nov 2017 - Jan 2022
+        company: Microsoft, Ohio
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Engaged customers ensuring they meet their RTO/RPO requirements in the most cost-effective way
+            - Mentored architects/engineers to enable them to achieve greater success and career growth
+            - Provided the voice of the customer to influence engineering advancements
+            - Escalation point for architects, removing customers blockers
+            - Provided strategic direction to the customer, allowing them to leverage a $350,000 cost avoidance 
+            - Developed Azure automation, enabling rapid deployment of SQL Server saving 86% of human effort
+      - role: Sr. Premier Field Engineer
+        time: April 2012 - November 2017
+        company: Microsoft, New York
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer.
+            - Created a solution that allowed customers manage SQL Server at scale (saved customer 950 hours per year)
+            - Created LabInaBox, which allows individuals to spin up sandbox environments quickly
+            - A major contributor to the SQL Server DSC resource
+      - role: Sr. Architect
+        time: September 2010 - April 2012
+        company: HSN, Florida
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Developed a  new architecture that allowed for consolidation reducing licensing costs
+            - Developed an archiving solution improving production efficiency while maintaining compliance
+            - Developed reusable modules DBAs could leverage to minimize human error
+            -	Developed an automated solution to migrate SQL Server to a newer version
+      - role: Sr. Database Admministrator
+        time: December 2000 - September 2010
+        company: JpMorgan Chase, Ohio
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Developed a  new architecture that allowed for consolidation reducing licensing costs
+            - Developed an archiving solution improving production efficiency while maintaining compliance
+            - Developed reusable modules DBAs could leverage to minimize human error
+            -	Developed an automated solution to migrate SQL Server to a newer version
 projects:
     title: Projects
     intro: >
@@ -145,39 +174,59 @@ oss:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Azure Landing Zones Bicep
+        link: "https://github.com/Azure/ALZ-Bicep"
+        tagline: "A repo that provides an approach for deploying and managing the core platform capabilities of Cloud Adoption Framework Azure Landing Zones using Bicep."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Azure Oracle Terraform
+        link: https://github.com/microsoft/azure-oracle/tree/master/OraAzure-Terraform/Oracle_Single
+        tagline: "Terraform deployment to deploy Oracle on an Azure VM."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Azure Terraform Lab In a Box
+        link: https://github.com/aultt/Azure-Terraform-LabinaBox
+        tagline: "Terraform Landing Zones leveraged to build out a Hybrid Multi Region Environment with private endpoints."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Azure Spring Cloud Reference Architecture
+        link: https://github.com/Azure/azure-spring-apps-reference-architecture
+        tagline: "Quickstart - Azure Spring Apss Reference Architecture."
+      
+      - title: Desired State Configuration SQL Server Composite Resources
+        link: https://github.com/aultt/DSCSQLCompositeResources
+        tagline: "SQL Server Composit Resources to simplify and reduce the duplication of code within DSC."
+      
+      - title: LabInaBox
+        link: https://github.com/Microsoft/DSC-data-driven-deployment/tree/dev/utility/LabInaBox
+        tagline: "Simple lightweight utility to allow developers to spin up a sandbox lab environment quickly. Virtual machines will be created on a private network without access to host. Ability to create multiple lab environments that can coexist."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: SQL Server DSC
+        link: https://github.com/dsccommunity/SqlServerDsc
+        tagline: "The SqlServerDsc module contains DSC resources for deployment and configuration of Microsoft SQL Server."
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: DSC Data Driven Deployment
+        link: https://github.com/Microsoft/DSC-data-driven-deployment
+        tagline: "Proof-of-concept project illustrating an approach to persisting configuration which allows one to manage and apply DSC configurations in a push driven environment."
+
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
