@@ -20,6 +20,7 @@ sidebar:
     linkedin: troyault
     xing: #alandoe
     github: aultt
+    credley: https://www.credly.com/users/troy-ault/badges
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -27,7 +28,8 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: #http://www.africau.edu/images/default/sample.pdf  #Place PDF of Resume Here
+    certs: troy-ault
+    pdf: #https://www.credly.com/users/troy-ault/badges
 
     languages:
       title: Languages
@@ -58,28 +60,17 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MBA, IT Management
+        university: Western Governors University
+        #time: 2011 - 2012
+        
+      - degree: BS, Computer Science
+        university: The Ohio State University
+        #time: 2007 - 2011
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Activities and societies
+            - Phi Kappa Theta
+            
 experiences:
     title: Experiences
     info:
