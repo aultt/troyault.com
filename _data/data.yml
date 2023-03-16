@@ -78,17 +78,18 @@ experiences:
         time: Jan 2022 - Present
         company: Teradata, Remote-US
         details: |
-          Responsible for all build with initiatives on Microsoft Azure.  Includes native tools integration with
+          Responsible for all integration with initiatives on Microsoft Azure.  Includes native tools integration with
           Azure services and Vantage Cloud Lake on Azure.
-            - Secured Microsoft's commitment to providing native sync for Azure Data Factory
-            - Technical program manager for Azure integration efforts
-            - Partner with sales leaders to unblock strategic customer opportunities
             - Discussions with C-Suite around company strategy and direction
-            - Roadmap planning with Product Management to ensure alignment with Microsoft semester planning
+            - Executive call prep and participation in discussions with Microsoft Executives
             - Collaboration with Marketing and GTM on messaging for new integrations
             - Teradata liaison to navigate Microsoft, acting as a bridge between the two companies
-            - Facilitating contract negotiation with partners for product improvement
-            - Executive call prep and participation in discussions with Microsoft Executives
+            - Secured Microsoft’s commitment to providing native sync for Azure Data Factory
+            - Facilitating contract negotiations with partners for product improvement
+            - Technical program manager for Azure integration efforts
+            - Partner with sales leaders to unblock strategic customer opportunities 
+            - Roadmap planning with Product Management to ensure alignment with Microsoft semester planning
+
       - role: Sr. Cloud Solution Architect
         time: Nov 2017 - Jan 2022
         company: Microsoft, Remote-US
