@@ -112,10 +112,12 @@ experiences:
         time: December 2000 - September 2010
         company: JPMorgan Chase, Ohio
         details: |
+            
             Software Development and Lifecycle Management (SDLC)
             - Developed C# framework to assist in the rapid development of Business Intelligence Solutions 
             - Developed reporting solution for SSIS package logging 
             - Designed and Implemented a monitoring solution
+            
             Database Administration
             - Implemented multi-node SQL Server clusters
             - Maintained Chase.com online databases
