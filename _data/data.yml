@@ -74,8 +74,6 @@ experiences:
         time: Jan 2022 - Present
         company: Teradata, Remote-US
         details: |
-          Responsible for all integration initiatives on Microsoft Azure.  Includes native tools integration with
-          Azure services and Vantage Cloud Lake on Azure.
             - Provide IT Strategy at the C-Suite level
             - Collaborate with Marketing and GTM on communication for new integrations
             - Technical liaison to Microsoft
@@ -88,8 +86,6 @@ experiences:
         time: Nov 2017 - Jan 2022
         company: Microsoft, Remote-US
         details: |
-          Responsible for technical relationship with top five Capital Market companies.  Ensure architects are aware of 
-          latest enhancements, follow well architected guidelines, and provide voice of the customer to engineering. 
             - Engaged customers ensuring they meet their RTO/RPO requirements in the most cost-effective way
             - Developed automation of Oracle Linux Vms leveraging Terraform and Ansible
             - Mentored architects/engineers to enable them to achieve greater success and improve teamwork
@@ -235,14 +231,14 @@ skills:
       - name: Problem Solving
         level: 98%
 
-      - name: Strategic Planning
+      - name: Strategy
         level: 95%
 
-      - name: Leadership
-        level: 85%
+      - name: Cloud Computing
+        level: 97%
 
-      - name: Management
-        level: 85%
+      - name: Data Architecture
+        level: 95%
 
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
