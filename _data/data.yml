@@ -75,51 +75,35 @@ experiences:
         time: Jan 2022 - Present
         company: Teradata, Remote-US
         details: |
-            Revolutionary Lead Architect who spearheaded a groundbreaking modernization of the database architecture, leveraging persuasive communication skills to forge a strategic partnership with Microsoft.  Pioneered the seamless automation of platform deployment and management, culminating in unparalleled levels of stability and reliability.            - Provide IT Strategy at the C-Suite level
-            - Engineered a cutting-edge, impeccably resilient infrastructure, achieving an unprecedented level of availability while concurrently slashing licensing expenses by a staggering 50%
-            - Revolutionized code development through the creation of highly efficient and reusable modules, resulting in a remarkable 70% reduction in deployment time while elevating accuracy by an impressive 95%.
-            - Pioneered Automated Migration of Microsoft SQL Server, slashing downtime by 99%.
+            Empowered with the critical role of fostering collaboration across key stakeholders, Product, Engineering, Sales, and Alliance organizations, and stands as the unwavering bridge between Teradata and Microsoft.  Entrusted with the vital duty of serving as the technical liaison, the path to seamless integration into the Microsoft ecosystem is paved.
+            - Demonstrated adept negotiation and conflict resolution expertise to effectively de-escalate interactions with three clients, safeguarding their contracts' integrity while concurrently addressing their requirements to ensure utmost satisfaction.  
+            - Negotiated Azure Data Factory native connector for Teradata, increasing native connectivity in Azure to 90+ additional data services.             - Revolutionized code development through the creation of highly efficient and reusable modules, resulting in a remarkable 70% reduction in deployment time while elevating accuracy by an impressive 95%.
+            - Delivered four compelling presentations at the Executive Briefing Center, targeting strategic accounts and successfully obtaining customer commitments, notably including a significant win-back achievement.
 
       - role: Sr. Cloud Solution Architect
-        time: Nov 2017 - Jan 2022
+        time: Apr 2012 - Jan 2022
         company: Microsoft, Remote-US
         details: |
-            - Engaged customers ensuring they meet their RTO/RPO requirements in the most cost-effective way
-            - Developed automation of Oracle Linux Vms leveraging Terraform and Ansible
-            - Mentored architects/engineers to enable them to achieve greater success and improve teamwork
-            - Provided the voice of the customer to influence engineering advancements
-            - Provided strategic direction to the customer, allowing them to leverage a $350,000 cost avoidance 
-            - Developed Azure automation, enabling rapid deployment of SQL Server saving 86% of human effort
-      - role: Sr. Premier Field Engineer
-        time: April 2012 - November 2017
-        company: Microsoft, New York
-        details: |
-            - Created a solution that allowed customers to manage SQL Server at scale (saved customer 950 hours per year)
-            - Created LabInaBox, which allows individuals to spin up sandbox environments quickly
-            - A major contributor to the Microsoft SQL Server DSC resource
+            Lead Data Architect with a focus on serving top-tier Capital Market customers and ensuring stringent security and availability requirements were met.  Cultivated and mentored an exceptional team of architects and engineers, fostering their expertise and professional growth and meticulously planned and executed strategic initiatives, delivering outstanding results and establishing a solid reputation in data architecture.            - Engaged customers ensuring they meet their RTO/RPO requirements in the most cost-effective way
+            - Executed a strategic approach, enabling the customer to reduce costs by $350,000.
+            - Implemented Azure Automation to facilitate expedited Microsoft SQL Server cloud deployment, resulting in a notable 86% reduction in human resource utilization.
+            - Engineered a solution to effectively manage Microsoft SQL Server on a large scale, resulting in significant annual time savings of 950 hours per year.
+
       - role: Sr. Architect
         time: September 2010 - April 2012
         company: HSN, Florida
         details: |
-            
-            - Developed a new architecture that allowed for consolidation, reducing licensing costs
-            - Developed an archiving solution improving production efficiency while maintaining compliance
-            - Developed reusable modules DBAs could leverage to minimize human error
-            -	Developed an automated solution to migrate Microsoft SQL Server to a newer version
+            Revolutionary Lead Architect who spearheaded a groundbreaking modernization of the database architecture, leveraging persuasive communication skills to forge a strategic partnership with Microsoft.  Pioneered the seamless automation of platform deployment and management, culminating in unparalleled levels of stability and reliability.            - Provide IT Strategy at the C-Suite level
+            - Engineered a cutting-edge, impeccably resilient infrastructure, achieving an unprecedented level of availability while concurrently slashing licensing expenses by a staggering 50%
+            - Revolutionized code development through the creation of highly efficient and reusable modules, resulting in a remarkable 70% reduction in deployment time while elevating accuracy by an impressive 95%.
+            - Pioneered Automated Migration of Microsoft SQL Server, slashing downtime by 99%.
       - role: Sr. Database Admministrator
         time: December 2000 - September 2010
         company: JPMorgan Chase, Ohio
         details: |
-            
-            Software Development and Lifecycle Management (SDLC)
-            - Developed C# framework to assist in the rapid development of Business Intelligence Solutions 
-            - Developed reporting solution for SSIS package logging 
-            - Designed and Implemented a monitoring solution
-            
-            Database Administration
-            - Implemented multi-node SQL Server clusters
-            - Maintained Chase.com online databases
-projects:
+            Dynamic and results-driven Database Developer entrusted with the pivotal role of envisioning and spearheading the cutting-edge database solution that underpins the seamless functionality of Chase.com’s mission-critical online bill-pay and alerting systems.  
+            - Developed and executed a sophisticated monitoring solution, resulting in a noteworthy 65% reduction in time to resolution.
+            - Created a robust C# framework designed to streamline the development process of Business Intelligence Solutions, promoting uniformity and expediting project progression.projects:
     title: Projects
     intro: >
 
