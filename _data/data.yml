@@ -209,22 +209,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset: 
-      - name: Microsoft Azure
-        level: 98%
+      - name: Strategic Thinking
+        level: 95%
 
       - name: Enterprise Architecture
         level: 98%
 
-      - name: Problem Solving
+      - name: Data Architecture
         level: 98%
 
-      - name: Strategy
-        level: 95%
+      - name: Problem Solving
+        level: 99%
 
-      - name: Cloud Computing
+      - name: Conflict Resolution
         level: 97%
 
-      - name: Data Architecture
+      - name: Negotiation
         level: 95%
 
 #footer: >
