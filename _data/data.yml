@@ -97,6 +97,7 @@ experiences:
             - Engineered a cutting-edge, impeccably resilient infrastructure, achieving an unprecedented level of availability while concurrently slashing licensing expenses by a staggering 50%
             - Revolutionized code development through the creation of highly efficient and reusable modules, resulting in a remarkable 70% reduction in deployment time while elevating accuracy by an impressive 95%.
             - Pioneered Automated Migration of Microsoft SQL Server, slashing downtime by 99%.
+     
       - role: Sr. Database Admministrator
         time: December 2000 - September 2010
         company: JPMorgan Chase, Ohio
@@ -104,7 +105,8 @@ experiences:
             Dynamic and results-driven Database Developer entrusted with the pivotal role of envisioning and spearheading the cutting-edge database solution that underpins the seamless functionality of Chase.com’s mission-critical online bill-pay and alerting systems.  
             - Developed and executed a sophisticated monitoring solution, resulting in a noteworthy 65% reduction in time to resolution.
             - Created a robust C# framework designed to streamline the development process of Business Intelligence Solutions, promoting uniformity and expediting project progression.projects:
-- projects:
+
+projects:
     title: Projects
     intro: >
 
