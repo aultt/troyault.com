@@ -12,8 +12,8 @@ sidebar:
     avatar: MyPortfolioimage.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: troy@tamz.net
-    phone: 1-614-329-5208
+    email: 
+    phone: 
     timezone: America/Eastern Timezone
     citizenship:
     website: blog.aziac.net #do not add http://
