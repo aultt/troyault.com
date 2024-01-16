@@ -71,8 +71,12 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: SVP - Principal Cloud Engineer
+        time: Jan 2024 - Present
+        company: Bank of America
+    
       - role: Director Cloud Architecture
-        time: Jan 2022 - Present
+        time: Jan 2022 - Dec 2023
         company: Teradata, Remote-US
         details: |
             Empowered with the critical role of fostering collaboration across key stakeholders, Product, Engineering, Sales, and Alliance organizations, and stands as the unwavering bridge between Teradata and Microsoft.  Entrusted with the vital duty of serving as the technical liaison, the path to seamless integration into the Microsoft ecosystem is paved.
