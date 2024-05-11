@@ -57,6 +57,10 @@ career-profile:
 education:
     title: Education
     info:
+      - degree: PhD, Information Technology
+        university: University of the Cumberlands
+        time: 2024 - 2027
+        
       - degree: MBA, IT Management
         university: Western Governors University
         #time: 2011 - 2012
@@ -81,7 +85,7 @@ experiences:
         time: Jan 2022 - Dec 2023
         company: Teradata, Remote-US
         details: |
-            Empowered with the critical role of fostering collaboration across key stakeholders, Product, Engineering, Sales, and Alliance organizations, and stands as the unwavering bridge between Teradata and Microsoft.  Entrusted with the vital duty of serving as the technical liaison, the path to seamless integration into the Microsoft ecosystem is paved.
+            Empowered with the pivotal responsibility of facilitating collaboration among essential stakeholders, including product, engineering, sales, and alliance teams. Serving as the steadfast link connecting Teradata and Microsoft, entrusted with the crucial task of acting as the technical liaison to ensure seamless integration into the Microsoft ecosystem.
             - Demonstrated adept negotiation and conflict resolution expertise to effectively de-escalate interactions with three clients, safeguarding their contracts' integrity while concurrently addressing their requirements to ensure utmost satisfaction.  
             - Negotiated Azure Data Factory native connector for Teradata, increasing native connectivity in Azure to 90+ additional data services.             - Revolutionized code development through the creation of highly efficient and reusable modules, resulting in a remarkable 70% reduction in deployment time while elevating accuracy by an impressive 95%.
             - Delivered four compelling presentations at the Executive Briefing Center, targeting strategic accounts and successfully obtaining customer commitments, notably including a significant win-back achievement.
