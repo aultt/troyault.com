@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Troy Ault
-    tagline: SVP - Principal Cloud Engineer
+    tagline: Principal Cloud Solution Architect
     avatar: MyPortfolioimage.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -71,8 +71,12 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Principal Cloud Solution Architect
+        time: Dec 2024 - Present
+        company: Microsoft, Ohio
+        
       - role: SVP - Principal Cloud Engineer
-        time: Jan 2024 - Present
+        time: Jan 2024 - Dec 2024
         company: Bank of America, Ohio
         details: |
             Accomplished Principal Engineer, steering the strategic cloud direction of data services. Providing visionary leadership and leveraging technical expertise to optimize data infrastructure and operations, focusing on enabling cloud solutions. Responsibilities include driving initiatives to refine data organization, storage, accessibility, and security within cloud environments. Recognized for fostering a culture of innovation and collaboration, leading cross-functional teams to deliver high-impact solutions that closely align with our business objectives.
