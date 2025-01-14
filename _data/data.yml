@@ -57,10 +57,6 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: PhD, Information Technology
-        university: University of the Cumberlands
-        time: 2024 - 2027
-        
       - degree: MBA, IT Management
         university: Western Governors University
         #time: 2011 - 2012
